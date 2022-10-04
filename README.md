@@ -33,4 +33,4 @@ class A:
  My favorite news site is [my steam](https://steamcommunity.com/id/alexpozitivon)
  
  ## Photo Deni
- !
+ ![Denni](https://sun9-1.userapi.com/impf/c855220/v855220780/dc100/L26Rf0q8YjA.jpg?size=1140x1426&quality=96&sign=95076b6f6f512b52c0969c747ba05163&type=album)
